@@ -1,25 +1,24 @@
 {
-  "name": "passport-alipay-oauth2",
-  "version": "0.2.1",
-  "description": "OAuth 2.0 for 支付宝",
+  "name": "passport-alipay2",
+  "version": "0.1.0",
+  "description": "OAuth 2.0 for Alipay",
   "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/mackwan84/passport-alipay.git"
+    "url": "git+https://github.com/RockinY/passport-alipay2.git"
   },
   "keywords": [
+    "支付宝",
+    "passportjs",
     "passport",
     "alipay"
   ],
-  "author": "Mac Kwan",
+  "author": "Bran Liang",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/mackwan84/passport-alipay/issues"
+    "url": "https://github.com/RockinY/passport-alipay2/issues"
   },
-  "homepage": "https://github.com/mackwan84/passport-alipay#readme",
+  "homepage": "https://github.com/RockinY/passport-alipay2#readme",
   "dependencies": {
     "bluebird": "^3.5.0",
     "debug": "^3.1.0",

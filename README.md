@@ -1,5 +1,3 @@
-# passport-alipay
+# passport-alipay2
 
-Passport strategy for authenticating with Alipay
-
-支付宝生活号OAuth 2.0授权
+蚂蚁开放平台现在只支持RSA2的签名方式，新版本对此进行了相应升级。

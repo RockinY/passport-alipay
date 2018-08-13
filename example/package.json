@@ -1,6 +1,9 @@
 {
   "name": "passport-alipay2-examples",
   "version": "0.0.0",
+  "scripts": {
+    "start": "DEBUG=passport-alipay* node ./app.js"
+  },
   "dependencies": {
     "body-parser": "^1.18.3",
     "dotenv": "^6.0.0",
